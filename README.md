@@ -1,5 +1,4 @@
-- 👀 interested in mechanical design, 3D printing, and robotics 
-- 💻 looking to collaborate on flutter projects
+- 👀 interested in mechanical design, manufacturing, and robotics
 
 <!---
 zanovis/zanovis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
